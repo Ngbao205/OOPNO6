@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DanhSachDonHang>
+    <DonHang>
+        <DanhSachChiTiet>
+            <ChiTiet>
+                <mon>
+                    <gia>123.0</gia>
+                    <tenMon>cafe</tenMon>
+                </mon>
+                <soLuong>1</soLuong>
+            </ChiTiet>
+        </DanhSachChiTiet>
+        <maDon>1</maDon>
+        <ngayLap>2025-07-07+07:00</ngayLap>
+    </DonHang>
+    <DonHang>
+        <DanhSachChiTiet>
+            <ChiTiet>
+                <mon>
+                    <gia>25000.0</gia>
+                    <tenMon>Ca phe sua</tenMon>
+                </mon>
+                <soLuong>2</soLuong>
+            </ChiTiet>
+        </DanhSachChiTiet>
+        <maDon>2</maDon>
+        <ngayLap>2025-07-07+07:00</ngayLap>
+    </DonHang>
+</DanhSachDonHang>
